@@ -13,7 +13,7 @@ token = __config__["token"]
 os.system("cls") if os.name == "nt" else os.system("clear")
 
 Goku_art = """
-                                      Goku Nuker On Top!
+                                      SOMNATH V17 FUCK THE DC!
                               ═══════════════════════════════════         
                          ═════════════════════════════════════════════
 """.format("\x1b[38;5;17m", "\x1b[38;5;18m", "\x1b[38;5;19m", "\x1b[38;5;20m", "\x1b[38;5;21m", "\x1b[0m")
