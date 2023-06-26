@@ -1,0 +1,22 @@
+{
+    "token": "MTExNjM1NDc3ODE2Mzg0MzE4Mg.GEqXG-.cKhNzDFTQv72ZN1m6DdL3Iv77ACYb1Mmeqss70",
+    "proxy": false,
+    "nuke": {
+        "channels_name": [
+            "Goku runs cord",
+            "Goku runs you!",
+            "wizzed",
+            "beamed"
+        ],
+        "roles_name": [
+            "wizzed by Goku",
+            "Goku owns u",
+            "Goku runs u"
+        ],
+        "messages_content": [
+            "@everyone @here https://discord.gg/2BzcdSEKvq",
+            "@everyone @here https://discord.gg/2BzcdSEKvq",
+            "@everyone @here https://discord.gg/2BzcdSEKvq"
+        ]
+    }
+}
