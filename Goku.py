@@ -13,7 +13,7 @@ token = __config__["token"]
 os.system("cls") if os.name == "nt" else os.system("clear")
 
 Goku_art = """
-                                      Goku Nuker On Top!
+                                      SOMNATH V17 FUCK THE DC!
                               ═══════════════════════════════════         
                          ═════════════════════════════════════════════
 """.format("\x1b[38;5;17m", "\x1b[38;5;18m", "\x1b[38;5;19m", "\x1b[38;5;20m", "\x1b[38;5;21m", "\x1b[0m")
@@ -419,7 +419,7 @@ if __name__ == "__main__":
     try:
         os.system("title Goku Nuker ^| Authentication & mode con: cols=95 lines=25")
         guildid = input("{}({}Goku{}) Guild ID{}:{} ".format("\x1b[0m", "\x1b[38;5;21m", "\x1b[0m", "\x1b[38;5;21m", "\x1b[0m"))
-        __client__.run(token, bot=True)
+        __client__.run(token)
     except Exception as e:
         print("{}({}-{}) {}".format("\x1b[0m", "\x1b[31m", "\x1b[0m", e))
         time.sleep(1.5)
